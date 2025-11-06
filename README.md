@@ -2,8 +2,6 @@
 
 This repository contains the code for an automated invoice processing system using Python, OpenAI's GPT-4o and Pandas. The system can process multiple PDF invoices, extract relevant information, perform basic financial analysis, and generate an Excel report.
 
-For a detailed explanation of the code and concepts, check out [this blog post](https://codeawake.com/blog/invoice-processing).
-
 ## Structure
 
 The code is organized into the following files:
